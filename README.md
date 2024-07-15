@@ -60,5 +60,4 @@
   </a>
 </div>
 
-###
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fr33pouyijp5nf7zm7olvf2uyq&count={count})
+###![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fr33pouyijp5nf7zm7olvf2uyq&width={width})
