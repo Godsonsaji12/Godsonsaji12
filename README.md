@@ -1,5 +1,5 @@
 <h1 align="center">Hey! Nice to see you.</h1>
-<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Godson Saji)|)" title="👋 Hi there! I'm (Godson Saji)|)"/>
+<img src="https://raw.githubusercontent.com/Godsonsaji12/GodsonSaji12/master/intro.gif" alt="👋 Hi there! I'm (Godson Saji)|)" title="👋 Hi there! I'm (Godson Saji)|)"/>
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
