@@ -36,6 +36,12 @@
 
 ###
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+###
+
 <h4 align="left">Where to find me!</h4>
 
 ###
