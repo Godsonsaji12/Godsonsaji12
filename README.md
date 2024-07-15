@@ -61,6 +61,4 @@
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/godsonsaji12/godsonsaji12/output/snake.svg" alt="Snake animation" />
 
-###
