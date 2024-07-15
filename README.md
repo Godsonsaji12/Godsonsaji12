@@ -61,9 +61,4 @@
 </div>
 
 ###
-
-TypeScript               6 repos             █████████░░░░░░░░░░░░░░░░   35.29 % 
-HTML                     5 repos             ███████░░░░░░░░░░░░░░░░░░   29.41 % 
-JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31fr33pouyijp5nf7zm7olvf2uyq&count={count})
